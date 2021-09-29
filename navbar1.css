@@ -2,7 +2,7 @@ a:hover{
     background-color: #41766f;
 }
 .navegacion{
-margin-left: 790px;
+margin-left: 890px;
 display:flex;
 justify-content: flex-end;
 }
@@ -39,4 +39,16 @@ h1{
 }
 hr{
     width:100px;
+}
+.form{
+    width:40%;
+    height: 50%;
+	padding:30px;
+	border-radius:10px;
+	display: flex !important;
+    background-color: #A34828;
+}
+#nashe{
+    position: fixed;
+    background-color: #09454f !important;
 }
