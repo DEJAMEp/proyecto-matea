@@ -1,45 +1,17 @@
-a:hover{
-    background-color: #41766f;
-}
-.navegacion{
-margin-left: 790px;
-display:flex;
-justify-content: flex-end;
+form{
+	width:370px;
+	padding:20px;
+	border-radius:10px;
+	margin:auto;
+	background-color: #211f1f;
 }
 body{
-    overflow-x: hidden;
+    background-image: url("https://lh3.googleusercontent.com/proxy/g-t6ZEHYvF8GYghJK4RfrtgFtJ0XzdswxIrI6taqnZvC9jp527vBs5Lt-Gb-G-xse3QE2sI4ZoW-nv570w51CPhZlXbxMSwPzsJTSA");
 }
-
-.card-text{
-    text-align: center;
+.botonconlogo{
+    width:2px ;
+    height: 2px;
 }
-.ultima-foto{
-    position: relative;
-    /*display: all;*/
-    /*float: left;
-    margin-left: 270px;*/
-    display: flex;
-    justify-content: center;
+.btn{
+    margin: auto;
 }
-.cuadrado {
-    width: 50%; 
-    height: 300px; 
-    border: 3px solid #555;
-    float: left;
-    margin-left: 27px;
-}
-h1{
-    color: #09454f;
-}
-.texto{
-    position: absolute;
-    top: 200px;
-    left: 40%;
-    transform: translate(-50%, -50%);
-}
-hr{
-    width:100px;
- }
- p{
-     text-align: center;
- }
