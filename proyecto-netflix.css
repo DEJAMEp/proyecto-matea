@@ -1,17 +1,26 @@
-form{
-	width:320px;
-    height: 530px;
-	padding:20px;
-	border-radius:20px;
-	margin: auto;
-    margin-top: 50px;
-	background-color: #C39BD3;
-}
-.botonconlogo{
-    width:2px ;
-    height: 2px;
-}
-.btn{
-    margin: auto;
-    margin-top: 10px;
+@media screen and (min-width: 700px){
+
+#navbarNavAltMarkup{
+    margin-left: auto;
     }
+    p{
+        color: lightcyan;
+    }
+    .navbar-nav{
+    color:lightcyan ;
+    margin: left 200px ;
+    }
+    .nav-link{
+        margin-left: 400px;
+    }
+    .nav-link1{
+        margin-left: 40px;
+    }
+    .nav-link2{
+        margin-left: 40px;
+    }
+}
+@media screen and (max-width: 1024px){
+    
+}
+    

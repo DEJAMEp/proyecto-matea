@@ -1,0 +1,47 @@
+@media screen and (max-width: 1440px){
+    body{
+		background-image: url(https://img.freepik.com/vector-gratis/fondo-negro-foco-luz_1017-27230.jpg?size=626&ext=jpg);
+		background-size: cover;
+    }
+    form{
+	width:320px;
+    height: 450px;
+	padding:20px;
+	border-radius:20px;
+	margin: auto;
+    margin-top: 50px;
+	background-color: #82E0AA;
+}
+.boton{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.gif{
+    margin-top: 40px;
+    margin-left: 60px;
+
+    }
+}
+@media screen and (min-width: 300px){
+    body{
+		background-image: url(https://img.freepik.com/vector-gratis/fondo-negro-foco-luz_1017-27230.jpg?size=626&ext=jpg);
+		background-size: cover;
+    }
+    form{
+        width:320px;
+        height: 450px;
+        padding:20px;
+        border-radius:20px;
+        margin: auto;
+        margin-top: 50px;
+    }
+    .boton{
+        margin-top: 20px;
+        margin-left: 100px;
+    }
+    .gif{
+        margin-top: 40px;
+        margin-left: 60px;
+    
+        }
+}

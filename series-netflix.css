@@ -1,0 +1,36 @@
+@media screen and (max-width: 1024px){
+.imagen-serie{
+    margin-left:20%;
+    z-index: 0;
+}
+    #navbarNavAltMarkup{
+        margin-left: auto;
+        }
+        p{
+            color: lightcyan;
+        }
+        .navbar-nav{
+        color:lightcyan ;
+        margin: left 200px ;
+        }
+        .nav-link{
+            margin-left: 400px;
+        }
+        .nav-link1{
+            margin-left: 40px;
+        }
+        .nav-link2{
+            margin-left: 40px;
+        }
+    }
+    @media screen and (min-width: 300px){
+        .imagen-serie{
+            width: 18em;
+            margin-left: 100px;
+            z-index: 0;
+        }
+        .texto{
+            margin-top: -200px;
+            margin-left: 20px;
+        }
+    }
